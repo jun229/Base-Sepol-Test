@@ -28,6 +28,11 @@ const config: HardhatUserConfig = {
       gasPrice: 1000000000,
     },
   },
+  etherscan: {
+    apiKey: {
+      baseSepolia: process.env.BASESCAN_API_KEY
+    },
+  },
   defaultNetwork: 'hardhat',
 };
 
