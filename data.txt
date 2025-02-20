@@ -1,0 +1,2 @@
+Influencer: Logan Paul, Prediction: rise, Amount: 50, Duration: 5, UserId: 130610db-4c53-444d-8e91-b9896c702d28
+Influencer: Logan Paul, Prediction: fall, Amount: 60, Duration: 3, UserId: 130610db-4c53-444d-8e91-b9896c702d28
